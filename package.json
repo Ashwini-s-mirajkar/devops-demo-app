@@ -1,0 +1,13 @@
+{
+    "name": "devops-demo-app",
+    "version": "1.0.0",
+    "description": "Simple app for DevOps CI/CD demo",
+    "main": "app.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
